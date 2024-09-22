@@ -1,10 +1,38 @@
 # Otel Rezervasyon ve Yönetim Web API Projesi
 
-Bu proje, otel rezervasyon ve yönetim süreçlerini kolaylaştırmak amacıyla **ASP.NET Core** kullanılarak geliştirilmiş bir web API uygulamasıdır. Kullanıcılar, otel odalarını kolayca rezerve edebilir ve yöneticiler, otel yönetim işlemlerini efektif bir şekilde gerçekleştirebilirler. Proje, kullanıcılar için iki farklı panel sunar: **Kullanıcı Paneli** ve **Admin Paneli**.
+Projemiz, **ASP.NET Core** kullanılarak geliştirilmiş bir web API uygulamasıdır. bir otelin online rezervasyon sistemi üzerine kurgulanmış bir senaryo işleyişine sahip 🏨. Kullanıcılar, otel odalarını kolaylıkla rezerve edebilir ve yöneticiler otel yönetim işlemlerini gerçekleştirebilirler. Projede iki farklı panel bulunuyor: 
+**Kullanıcı Paneli** ve **Admin Paneli**.  
 
 ## Projenin Amacı
 
 Projenin temel amacı, kullanıcıların web sitesi arayüzü üzerinden otel odaları hakkında bilgi alabilmelerini sağlamak ve rezervasyon yapmalarına imkan tanımaktır. Ayrıca, kullanıcılar admin paneline öneri, talep veya şikayet gibi konularda mesaj gönderebilirler. Admin paneli üzerinden yöneticiler, rezervasyonları düzenleyebilir, onaylayabilir ve otel yönetim süreçlerini yönetebilirler.
+
+## Neler Yaptık 
+
+1. **ASP.NET Core API Geliştirme**: Projemiz tamamen API ile geliştirildi 🚀. API’yi geliştirirken **çok katmanlı mimari** kullanarak modüler bir yapı kurduk. Veri tabanı işlemlerinde **MSSQL** kullanarak otel verileri, odalar ve istatistikler gibi bilgileri API'den çekip consume ederek listeledik 🧳.
+
+2. **Repository Design Pattern**: Proje **Repository Design Pattern** ile tasarlandı 🍜. Bu sayede özellikle **CRUD** işlemlerinde tekrarların önüne geçtik ve kodun daha sürdürülebilir olmasını sağladık. Ayrıca **Dependency Injection** ve **SOLID** prensiplerine olabildiğince sadık kaldık ki projeyi inceleyen yazılımcılar da projeyi rahatlıkla anlayabilsin 🍩.
+
+3. **DTO Sınıflarıyla Eşleme**: Veritabanı modellerimizi **DTO (Data Transfer Object)** sınıflarıyla eşleştirerek veri akışını düzenledik ve güvenli hale getirdik 🔄.
+
+4. **API Test ve Consume İşlemleri**: Geliştirdiğimiz **API**'lerin test işlemlerini **Swagger** ve **Postman** kullanarak gerçekleştirdik ☕️. Sorunsuz çalışan API’lerimizi, güçlü bir **HTML** teması üzerine **Vitrin** ve **Admin** olarak ayırarak verileri consume ettik 🏇.
+
+5. **Arayüz Geliştirme**: **Vitrin tarafında** otel bilgileri, odalar, istatistikler, iletişim paneli gibi alanları listeleyerek kullanıcı deneyimini zenginleştirdik 🌸. Ayrıca **Admin panelinde** yöneticilerin otel yönetimini kolayca yapabileceği bir arayüz sunduk.
+
+6. **Güvenlik ve Rol Yönetimi**: Projemize güvenlik katmanı olarak **AspNet Core Identity** ekledik 🔑. Güvenlik yetmez dedik, **rol yönetimi** de dahil ederek kullanıcı yetkilendirmelerini düzenledik 💣. 
+
+7. **Mail Gönderimi**: Rezervasyon işlemlerini tamamlayan kullanıcılara, rezervasyon detaylarını içeren mailleri **gerçek e-posta adreslerine** gönderdik 🎷.
+
+8. **Harici API Tüketimi (Rapid API)**: Sadece kendi API’mizi kullanmakla kalmayıp **RapidAPI** entegrasyonuyla otel rezervasyonlarına yardımcı olacak harici veriler çektik 🪻. İlk olarak döviz kuru bilgilerini panelimize entegre ettik 💷. Ardından, sosyal medya hesaplarındaki takipçi sayıları gibi verileri de çekerek gösterdik ⏳.
+
+9. **İstatistik ve Dashboard Yönetimi**: Admin panelindeki **Dashboard** ve **widgetlar** için bolca **Entity Framework** ve **LINQ** sorguları yazdık 🪻. Böylece yönetim için dinamik ve anlık istatistikler sunduk.
+
+10. **Dosya İşlemleri**: Dosya yükleme ve indirme işlemlerini API üzerinden nasıl gerçekleştireceğimizi de projeye ekledik 📂.
+
+Bu adımlarla, otel rezervasyon ve yönetim sistemini modern ve güvenli teknolojilerle donatılmış bir yapı üzerine inşa ettik 🌟.
+
+
+
 
 ## Proje Özellikleri
 
