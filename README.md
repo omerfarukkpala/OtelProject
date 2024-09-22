@@ -195,11 +195,22 @@ https://localhost:7001/AdminContact/AddSendMessage/
 https://localhost:7001/AdminMail/Index/
 ![screencapture-localhost-7001-AdminMail-Index-2024-09-23-01_22_54](https://github.com/user-attachments/assets/c80cae3c-be16-4d4e-9fc7-f62b15b634fb)
 
+## Image File
 
+https://localhost:7001/AdminImageFile/Index/
+![screencapture-localhost-7001-AdminImageFile-Index-2024-09-23-01_24_24](https://github.com/user-attachments/assets/5941f319-c350-4679-b292-8d24f711cc0c)
 
+## File
+https://localhost:7001/AdminFile/Index/
+![screencapture-localhost-7001-AdminImageFile-Index-2024-09-23-01_24_24](https://github.com/user-attachments/assets/c7d6ec74-9a94-402e-8d4a-c03f037c9a0e)
 
+## Users
+https://localhost:7001/AdminUsers/Index/
+![screencapture-localhost-7001-AdminUsers-Index-2024-09-23-01_28_42](https://github.com/user-attachments/assets/9c47f9f3-8608-48e9-8af7-e7b8c7705fe9)
 
-
+## Register Index
+https://localhost:7001/Register/Index/
+![screencapture-localhost-7001-Register-Index-2024-09-23-01_29_53](https://github.com/user-attachments/assets/a90aafb7-9a23-4c82-a2fc-48c734b7c766)
 
 
 
