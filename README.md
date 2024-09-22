@@ -150,7 +150,24 @@ https://localhost:7001/Testimonial/Index/
 https://localhost:7001/Testimonial/UpdateTestimonial/2
 ![updatteee](https://github.com/user-attachments/assets/51ada29d-fb8d-494c-9f88-a9f0dfdc662c)
 
-### Add Staff
-https://localhost:7001/Staff/AddStaff/
-![addsstaf](https://github.com/user-attachments/assets/eda3f65c-395a-4f21-b48d-e52d01e8d263)
+## About
+https://localhost:7001/AdminAbout/Index/
+![aboutt](https://github.com/user-attachments/assets/31ff8c47-f1e7-436b-92fe-acbb8fd12d70)
+
+#### Update About 
+https://localhost:7001/AdminAbout/UpdateAbout/2
+![updatee](https://github.com/user-attachments/assets/87b2caae-b8b8-4591-9966-ce55ff89c84f)
+
+## Room
+https://localhost:7001/AdminRoom
+![rrrr](https://github.com/user-attachments/assets/0f01a72f-5ea7-428a-b1d8-be0fc42f3655)
+
+###  Update Room
+https://localhost:7001/AdminRoom/UpdateRoom/1
+![rupdate](https://github.com/user-attachments/assets/4ba85b81-e97c-4970-aa48-73826cc070bd)
+
+### Add Room
+https://localhost:7001/AdminRoom/AddRoom/
+![addd](https://github.com/user-attachments/assets/113beb1c-503f-40a0-a908-ca27aa36dc5c)
+
 
