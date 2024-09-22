@@ -50,10 +50,4 @@ Bu projede kullanılan başlıca teknolojiler ve kütüphaneler şunlardır:
 - **Json Web Token (JWT)**: Kimlik doğrulama için kullanılan token tabanlı sistem
 - **Fluent Validation**: Model doğrulama işlemleri
 
-## Kurulum
 
-Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
-
-1. **Projeyi klonlayın**:
-   ```bash
-   git clone https://github.com/kullanici-adi/proje-adi.git
