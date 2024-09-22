@@ -262,6 +262,6 @@ https://localhost:7001/Settings/Index/
 
 http://localhost:5000/swagger/index.html
 ![screencapture-localhost-5000-swagger-index-html-2024-09-23-01_39_05](https://github.com/user-attachments/assets/a3f80979-f38a-4337-bee1-29aad5afccfc)
-
+ 
 
 
