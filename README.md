@@ -170,4 +170,53 @@ https://localhost:7001/AdminRoom/UpdateRoom/1
 https://localhost:7001/AdminRoom/AddRoom/
 ![addd](https://github.com/user-attachments/assets/113beb1c-503f-40a0-a908-ca27aa36dc5c)
 
+## Guests
+https://localhost:7001/AdminGuest/Index/
+![ggg](https://github.com/user-attachments/assets/791b8215-33a3-4a6b-8289-93b8338c2b96)
+
+### Add Guest
+https://localhost:7001/AdminGuest/AddGuest/
+![adddd](https://github.com/user-attachments/assets/bb1020d1-64db-4261-919b-d9069631f197)
+
+### Update Guest 
+https://localhost:7001/AdminGuest/UpdateGuest/3
+![screencapture-localhost-7001-AdminGuest-UpdateGuest-3-2024-09-23-01_18_50](https://github.com/user-attachments/assets/685e9b72-2387-4d93-9539-01d0b0a84954)
+
+## Message 
+https://localhost:7001/AdminContact/InBox/
+![screencapture-localhost-7001-AdminContact-InBox-2024-09-23-01_21_00](https://github.com/user-attachments/assets/3556b9cb-6863-4485-ac47-2de168ea2611)
+
+### Add Send Mesaage
+https://localhost:7001/AdminContact/AddSendMessage/
+![screencapture-localhost-7001-AdminContact-AddSendMessage-2024-09-23-01_21_51](https://github.com/user-attachments/assets/dea33ab2-030c-4f7b-93c8-26921e9cee9a)
+
+
+## Mail
+https://localhost:7001/AdminMail/Index/
+![screencapture-localhost-7001-AdminMail-Index-2024-09-23-01_22_54](https://github.com/user-attachments/assets/c80cae3c-be16-4d4e-9fc7-f62b15b634fb)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
