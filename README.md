@@ -79,6 +79,12 @@ Bu projede kullanılan başlıca teknolojiler ve kütüphaneler şunlardır:
 - **Fluent Validation**: Model doğrulama işlemleri
 
  ## 🖼️ Projeye Ait Görseller
+ ### Anasayfa  
+ https://localhost:7001/Default/Index/
 ![fullsayfa](https://github.com/user-attachments/assets/54873eb6-d196-482b-875c-f901f69f6479)
+
+### Booking  
+https://localhost:7001/Booking/Index/
+![booking](https://github.com/user-attachments/assets/18338e55-6c94-489d-aabb-27b13ab9c75f)
 
 
