@@ -239,13 +239,23 @@ https://localhost:7001/AdminRole/AddRole/
 https://localhost:7001/AdminRole/UpdateRole/1
 ![screencapture-localhost-7001-AdminRole-UpdateRole-1-2024-09-23-01_35_17](https://github.com/user-attachments/assets/08c500ac-e962-4df4-9496-f0ee68d15373)
 
+## Role Assign 
+https://localhost:7001/RoleAssign/Index/
+![screencapture-localhost-7001-RoleAssign-Index-2024-09-23-01_36_38](https://github.com/user-attachments/assets/c405fe85-10da-4c75-bfda-b294fb618f4a)
+
+### Assign Role 
+https://localhost:7001/RoleAssign/AssignRole/2
+![screencapture-localhost-7001-RoleAssign-AssignRole-2-2024-09-23-01_37_21](https://github.com/user-attachments/assets/f330d6e2-9511-4319-b32b-13159036f9ab)
 
 
+## Settings 
+https://localhost:7001/Settings/Index/
+![screencapture-localhost-7001-Settings-Index-2024-09-23-01_38_11](https://github.com/user-attachments/assets/390fb4f3-d03a-40f4-b053-f962f7130d9f)
 
+# HotelProject.WebApi
 
-
-
-
+http://localhost:5000/swagger/index.html
+![screencapture-localhost-5000-swagger-index-html-2024-09-23-01_39_05](https://github.com/user-attachments/assets/a3f80979-f38a-4337-bee1-29aad5afccfc)
 
 
 
