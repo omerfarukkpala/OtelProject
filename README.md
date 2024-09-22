@@ -81,10 +81,41 @@ Bu projede kullanılan başlıca teknolojiler ve kütüphaneler şunlardır:
  ## 🖼️ Projeye Ait Görseller
  ### Anasayfa  
  https://localhost:7001/Default/Index/
+ 
 ![fullsayfa](https://github.com/user-attachments/assets/54873eb6-d196-482b-875c-f901f69f6479)
 
 ### Booking  
 https://localhost:7001/Booking/Index/
+
 ![booking](https://github.com/user-attachments/assets/18338e55-6c94-489d-aabb-27b13ab9c75f)
 
+### İletişim 
+https://localhost:7001/Contact/Index/
 
+![illetişim](https://github.com/user-attachments/assets/95a8e013-2d6b-4a01-999b-864fb9f2d9ba)
+
+## Otel Giriş Paneli 
+https://localhost:7001/Login/Index/
+
+![otel giriş panel](https://github.com/user-attachments/assets/3293d074-c431-4ee7-91dc-065e7f3e65f9)
+
+## Otel Kayıt Panel 
+
+https://localhost:7001/Register/Index/
+
+![otelkayit](https://github.com/user-attachments/assets/d0ca8202-509a-4bb4-b4c6-285e06d31134)
+
+## Dashboard
+
+https://localhost:7001/Dashboard
+
+![dashboard](https://github.com/user-attachments/assets/5dd569f6-af57-4618-9cac-a0283feca042)
+
+## Booking
+
+https://localhost:7001/BookingAdmin/Index/
+
+![Rezarvazyonlar](https://github.com/user-attachments/assets/3a73319d-2ed8-44c0-9498-0eb17e09d39b)
+
+
+ 
