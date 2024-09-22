@@ -6,7 +6,7 @@ using Newtonsoft.Json;
 using System.Text;
 
 namespace HotelProject.WebUI.Controllers
-{
+{ 
     public class AdminAboutController : Controller
     {
         private readonly IHttpClientFactory _httpClientFactory;
