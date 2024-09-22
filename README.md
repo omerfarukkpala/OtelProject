@@ -117,5 +117,34 @@ https://localhost:7001/BookingAdmin/Index/
 
 ![Rezarvazyonlar](https://github.com/user-attachments/assets/3a73319d-2ed8-44c0-9498-0eb17e09d39b)
 
+## Staff
+
+https://localhost:7001/Staff
+
+![httpslocalhost7001Staff](https://github.com/user-attachments/assets/2762f66a-5f73-403e-a8e6-4eb78073bb1e)
+
+### Add Staff
+https://localhost:7001/Staff/AddStaff/
+![addstaff](https://github.com/user-attachments/assets/5c78199b-d7c0-490d-8187-d37c42d18808)
+
+
+### Update Staff
+https://localhost:7001/Staff/UpdateStaff/1
+![updatestaff](https://github.com/user-attachments/assets/118793c2-5d45-4f35-af75-61d9a8f26ded)
+
+## Service 
+https://localhost:7001/Service/Index/
+
+![httpslocalhost7001ServiceIndex](https://github.com/user-attachments/assets/b80d36ce-3263-4b7b-9417-a69289b71a2c)
+
+### Add Service
+
+![addservice](https://github.com/user-attachments/assets/25e3d3b2-ffc8-4a88-8add-ef0d7ffe68f5)
+
+https://localhost:7001/Service/AddService/
+
+ ### Update Service 
+ https://localhost:7001/Service/UpdateService/1
+![updateservice](https://github.com/user-attachments/assets/e69baabe-aad2-4468-8d89-e5ed8c428a0d)
 
  
