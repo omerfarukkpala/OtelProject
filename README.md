@@ -34,14 +34,14 @@ Bu adımlarla, otel rezervasyon ve yönetim sistemini modern ve güvenli teknolo
 
 
 
-## Proje Özellikleri
+## 🌟 Proje Özellikleri
 
-### Kullanıcı Paneli
+### 🌸 Kullanıcı Paneli
 - Otel odaları hakkında bilgi edinme
 - Rezervasyon yapma
 - Admin paneline mesaj gönderme (öneri, talep, şikayet)
 
-### Admin Paneli
+### 🍜 Admin Paneli
 - Oda ekleme, güncelleme ve silme
 - Rezervasyonları yönetme ve onaylama
 - Kullanıcı hesaplarını yönetme
@@ -51,7 +51,7 @@ Bu adımlarla, otel rezervasyon ve yönetim sistemini modern ve güvenli teknolo
 - Profil bilgilerini yönetme
 - Kullanıcı rol yönetimi
 
-## Teknolojiler ve Kütüphaneler
+## 🧳 Teknolojiler ve Kütüphaneler
 
 Bu projede kullanılan başlıca teknolojiler ve kütüphaneler şunlardır:
 
@@ -67,7 +67,7 @@ Bu projede kullanılan başlıca teknolojiler ve kütüphaneler şunlardır:
 - **Postman**: API isteklerini test etmek için kullanılan araç
 - **Rapid API**: Harici API hizmetleriyle entegrasyon
 
-## Proje Bileşenleri
+## ⏳ Proje Bileşenleri
 
 - **Asp.Net Core API**: Otel rezervasyon ve yönetim işlemlerinin API tabanlı geliştirilmesi
 - **MsSql**: Veritabanı yönetim sistemi
@@ -77,5 +77,8 @@ Bu projede kullanılan başlıca teknolojiler ve kütüphaneler şunlardır:
 - **Swagger**: API dokümantasyonu ve test ortamı
 - **Json Web Token (JWT)**: Kimlik doğrulama için kullanılan token tabanlı sistem
 - **Fluent Validation**: Model doğrulama işlemleri
+
+ ## 🖼️ Projeye Ait Görseller
+![fullsayfa](https://github.com/user-attachments/assets/54873eb6-d196-482b-875c-f901f69f6479)
 
 
