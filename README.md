@@ -258,6 +258,7 @@ https://localhost:7001/Settings/Index/
 ![screencapture-localhost-7001-Settings-Index-2024-09-23-01_38_11](https://github.com/user-attachments/assets/390fb4f3-d03a-40f4-b053-f962f7130d9f)
 
 # HotelProject.WebApi
+![screencapture-localhost-5000-swagger-index-html-2024-09-23-01_50_24](https://github.com/user-attachments/assets/d1d06dc7-4c87-410b-a39c-16f2119c3134)
 
 http://localhost:5000/swagger/index.html
 ![screencapture-localhost-5000-swagger-index-html-2024-09-23-01_39_05](https://github.com/user-attachments/assets/a3f80979-f38a-4337-bee1-29aad5afccfc)
