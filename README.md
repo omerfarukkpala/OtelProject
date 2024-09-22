@@ -212,14 +212,32 @@ https://localhost:7001/AdminUsers/Index/
 https://localhost:7001/Register/Index/
 ![screencapture-localhost-7001-Register-Index-2024-09-23-01_29_53](https://github.com/user-attachments/assets/a90aafb7-9a23-4c82-a2fc-48c734b7c766)
 
+## Work Location
+https://localhost:7001/AdminWorkLocation/Index/
+![screencapture-localhost-7001-AdminWorkLocation-Index-2024-09-23-01_31_21](https://github.com/user-attachments/assets/87aef938-048f-41b5-b565-98125aad3738)
 
+### Update WorkLocation 
+https://localhost:7001/AdminWorkLocation/UpdateWorkLocation/1
+![screencapture-localhost-7001-AdminWorkLocation-Index-2024-09-23-01_31_21 (1)](https://github.com/user-attachments/assets/d91fe526-9c46-4bf6-af24-b78340318719)
 
+### Add Worklocation
 
+https://localhost:7001/AdminWorkLocation/AddWorkLocation/
+![screencapture-localhost-7001-AdminWorkLocation-AddWorkLocation-2024-09-23-01_32_57](https://github.com/user-attachments/assets/2bf27717-836c-4740-9e20-5a8530059d3d)
 
+## Role 
 
+https://localhost:7001/AdminRole
+![screencapture-localhost-7001-AdminRole-2024-09-23-01_34_14](https://github.com/user-attachments/assets/3f9738da-34a2-4e30-b7e1-76233130a033)
 
+### Add Role 
+https://localhost:7001/AdminRole/AddRole/
+![screencapture-localhost-7001-AdminRole-AddRole-2024-09-23-01_34_40](https://github.com/user-attachments/assets/7154aa79-b0c2-463b-b44b-9a2cd6990e88)
 
+### Update Role
 
+https://localhost:7001/AdminRole/UpdateRole/1
+![screencapture-localhost-7001-AdminRole-UpdateRole-1-2024-09-23-01_35_17](https://github.com/user-attachments/assets/08c500ac-e962-4df4-9496-f0ee68d15373)
 
 
 
