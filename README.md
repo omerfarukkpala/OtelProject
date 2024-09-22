@@ -100,25 +100,21 @@ https://localhost:7001/Login/Index/
 ![otel giriş panel](https://github.com/user-attachments/assets/3293d074-c431-4ee7-91dc-065e7f3e65f9)
 
 ## Otel Kayıt Panel 
-
 https://localhost:7001/Register/Index/
 
 ![otelkayit](https://github.com/user-attachments/assets/d0ca8202-509a-4bb4-b4c6-285e06d31134)
 
 ## Dashboard
-
 https://localhost:7001/Dashboard
 
 ![dashboard](https://github.com/user-attachments/assets/5dd569f6-af57-4618-9cac-a0283feca042)
 
 ## Booking
-
 https://localhost:7001/BookingAdmin/Index/
 
 ![Rezarvazyonlar](https://github.com/user-attachments/assets/3a73319d-2ed8-44c0-9498-0eb17e09d39b)
 
 ## Staff
-
 https://localhost:7001/Staff
 
 ![httpslocalhost7001Staff](https://github.com/user-attachments/assets/2762f66a-5f73-403e-a8e6-4eb78073bb1e)
@@ -138,7 +134,6 @@ https://localhost:7001/Service/Index/
 ![httpslocalhost7001ServiceIndex](https://github.com/user-attachments/assets/b80d36ce-3263-4b7b-9417-a69289b71a2c)
 
 ### Add Service
-
 ![addservice](https://github.com/user-attachments/assets/25e3d3b2-ffc8-4a88-8add-ef0d7ffe68f5)
 
 https://localhost:7001/Service/AddService/
@@ -147,4 +142,15 @@ https://localhost:7001/Service/AddService/
  https://localhost:7001/Service/UpdateService/1
 ![updateservice](https://github.com/user-attachments/assets/e69baabe-aad2-4468-8d89-e5ed8c428a0d)
 
- 
+## Testimonial 
+https://localhost:7001/Testimonial/Index/
+ ![screencapture-localhost-7001-Testimonial-Index-2024-09-23-01_01_45](https://github.com/user-attachments/assets/52a2b40c-d49d-4b45-913f-45db7eba729d)
+
+### Update Testimonial 
+https://localhost:7001/Testimonial/UpdateTestimonial/2
+![updatteee](https://github.com/user-attachments/assets/51ada29d-fb8d-494c-9f88-a9f0dfdc662c)
+
+### Add Staff
+https://localhost:7001/Staff/AddStaff/
+![addsstaf](https://github.com/user-attachments/assets/eda3f65c-395a-4f21-b48d-e52d01e8d263)
+
