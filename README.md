@@ -79,6 +79,11 @@ Bu projede kullanılan başlıca teknolojiler ve kütüphaneler şunlardır:
 - **Fluent Validation**: Model doğrulama işlemleri
 
  ## 🖼️ Projeye Ait Görseller
+
+ ### Veritabanı 
+ ![image](https://github.com/user-attachments/assets/37854279-2ada-4db7-b5b4-10eb081369eb)
+![image](https://github.com/user-attachments/assets/315de644-213a-4c51-abb4-a9fd78ab26e7)
+
  ### Anasayfa  
  https://localhost:7001/Default/Index/
  
