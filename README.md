@@ -4,7 +4,7 @@ Projemiz, **ASP.NET Core** kullanılarak geliştirilmiş bir web API uygulaması
 **Kullanıcı Paneli** ve **Admin Paneli**.      
       
                  
-     
+      
 https://github.com/user-attachments/assets/8ccb584b-175a-4c75-adc3-ab44eafe2540
   
       
