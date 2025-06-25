@@ -1,4 +1,4 @@
-# Otel Rezervasyon ve Yönetim Web API Projesi              
+# Otel Rezervasyon ve Yönetim Web API Projesi               
      
 Projemiz, **ASP.NET Core** kullanılarak geliştirilmiş bir web API uygulamasıdır. bir otelin online rezervasyon sistemi üzerine kurgulanmış bir senaryo işleyişine sahip 🏨. Kullanıcılar, otel odalarını kolaylıkla rezerve edebilir ve yöneticiler otel yönetim işlemlerini gerçekleştirebilirler. Projede iki farklı panel bulunuyor:  
 **Kullanıcı Paneli** ve **Admin Paneli**.                
